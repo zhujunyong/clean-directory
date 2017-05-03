@@ -1,5 +1,12 @@
-#!/usr/bin/python3
-# -*- coding:utf8 -*-
+#!/usr/bin/env python3
+# -*- coding: utf8 -*-
+
+"""
+remove useless folders or files.
+
+"""
+
+__author__ = 'Zhu JunYong'
 
 import sys
 import os
